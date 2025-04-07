@@ -66,4 +66,4 @@ A: 可能的原因：
 ## 联系方式
 
 - 项目主页：https://example.com/
-- 源代码：https://github.com/example/ai-player-mod
+- 源代码：https://github.com/qiang-di/ai-player-mod
